@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Random_element_generator", "Random_element_generator\Random_element_generator.pyproj", "{CB796068-D642-4494-A19F-C64C53295EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB796068-D642-4494-A19F-C64C53295EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB796068-D642-4494-A19F-C64C53295EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EB0F1A-066B-4A5E-835C-E031FEEB65C4}
+	EndGlobalSection
+EndGlobal
