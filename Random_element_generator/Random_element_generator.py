@@ -5,7 +5,7 @@ def generate_random_numbers(count):
     return"Пока в разработке!"
 
 if __name__ == "__main__":
-    number_of_elements = 16 + 10  # 26 элементов
+    number_of_elements = 16 + 10  # 26 элементов (10+16)
     random_numbers = generate_random_numbers(number_of_elements)
     
     # Вывод сгенерированных чисел
